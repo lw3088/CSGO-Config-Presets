@@ -1,6 +1,8 @@
-樱桃
+# 粉
 +reticle_color "480 160 230"
-圣黄金赤焰帝王
+# 黄
 +reticle_color "750 270 50"
-荧光超蓝海洋水晶
+# 蓝
 +reticle_color "50 255 800"
+# 解除fps限制
++fps_max unlimited
