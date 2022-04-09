@@ -5,10 +5,10 @@
 	"setting.cl_particle_fallback_multiplier"		"2"			//粒子倍增器		低(关):"2"/中:"1.75"/高:"1"
 	"setting.cl_ragdoll_maxcount"				"0"			//布娃娃系统		低:"0"/中:"4"/高:"8"
 	"setting.cl_ragdoll_self_collision"			"0"			//布娃娃碰撞		禁用:"0"/开:"1.0"
-	"setting.mat_forceaniso"					"16"			//纹理过滤等级		双线性:"1"/三线性:"1"/各向异性过滤:"2"/"4"/"8"/"16"
-	"setting.mat_mip_linear"					"0"			//线性过滤开关		双线性:"0"/三线性-16x各向异性:"1.0"
-	"setting.stream_memory"					"600000"		//纹理串流预算 		建议:"0":4-6GVRAM(无)/"16w":6GVRAM(很低)/"30w":6.5GVRAM(低)/"60w":7GVRAM(中)/"100w":8GVRAM(高)/"200w":10GVRAM(很高)/"300w":10+GVRAM(超高)
- 	"setting.mat_picmip"						"1"			//纹理贴图清晰度		糊:"2"/标清:"1"/高清:"0"
+	"setting.mat_forceaniso"					"4"			//纹理过滤等级		双线性:"1"/三线性:"1"/各向异性过滤:"2"/"4"/"8"/"16"
+	"setting.mat_mip_linear"					"1"			//线性过滤开关		双线性:"0"/三线性-16x各向异性:"1.0"
+	"setting.stream_memory"					"300000"		//纹理串流预算 		建议:"0":4-6GVRAM(无)/"16w":6GVRAM(很低)/"30w":6.5GVRAM(低)/"60w":7GVRAM(中)/"100w":8GVRAM(高)/"200w":10GVRAM(很高)/"300w":10+GVRAM(超高)
+ 	"setting.mat_picmip"						"0"			//纹理贴图清晰度		糊:"2"/标清:"1"/高清:"0"
 	"setting.particle_cpu_level"				"0"			//特效细节			低:"0"/中:"1.0"/高:"2.0"
 	"setting.r_createmodeldecals"				"0"			//冲撞痕迹贴图等级	禁用:"0"/低:"0.0"/高:"1.0"
 	"setting.r_decals"						"0"			//冲撞痕迹			禁用:"0"/低:"256"/高:"256"
